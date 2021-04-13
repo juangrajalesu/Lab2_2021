@@ -1,0 +1,28 @@
+{
+  "name": "lab2_2021",
+  "version": "1.0.0",
+  "description": "calculadora Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juangrajalesu/Lab2_2021.git"
+  },
+  "keywords": [
+    "suma",
+    "resta",
+    "multiplicacion",
+    "division"
+  ],
+  "author": "Juan Manuel Grajales Urquijo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juangrajalesu/Lab2_2021/issues"
+  },
+  "homepage": "https://github.com/juangrajalesu/Lab2_2021#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
