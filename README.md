@@ -32,7 +32,7 @@ Execute:
 $ npm test
 ```
 
-### How to get coverage test
+### How to get coverage the test
 
 Execute:
 
