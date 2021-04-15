@@ -1,5 +1,7 @@
 # Lab2_2021
 
+Travis-CI: [![Build Status](https://travis-ci.org/juangrajalesu/Lab2_2021.svg?branch=main)](https://travis-ci.org/juangrajalesu/Lab2_2021)
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
