@@ -2,6 +2,13 @@
 
 Travis-CI:    [![Build Status](https://travis-ci.org/juangrajalesu/Lab2_2021.svg?branch=main)](https://travis-ci.org/juangrajalesu/Lab2_2021)
 
+SONAR: 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Lab2_2021&metric=alert_status)](https://sonarcloud.io/dashboard?id=Lab2_2021)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Lab2_2021&metric=code_smells)](https://sonarcloud.io/dashboard?id=Lab2_2021)
+
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Lab2_2021&metric=security_rating)](https://sonarcloud.io/dashboard?id=Lab2_2021)
+
 
 Implementation of a Simple Calculator with the next operations:
 
