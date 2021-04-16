@@ -9,6 +9,8 @@ SONAR:
 
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Lab2_2021&metric=security_rating)](https://sonarcloud.io/dashboard?id=Lab2_2021)
 
+COVERALLS:[![Coverage Status](https://coveralls.io/repos/github/juangrajalesu/Lab2_2021/badge.svg?branch=main)](https://coveralls.io/github/juangrajalesu/Lab2_2021?branch=main)
+
 
 Implementation of a Simple Calculator with the next operations:
 

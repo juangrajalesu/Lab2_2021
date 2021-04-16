@@ -8,4 +8,7 @@ jdk:
 addons:
  sonarcloud: true
 script:
+ - npm run cover
  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=juangrajalesu -Dsonar.projectKey=Lab2_2021 -Dsonar.sources='./app' -X
+after_succes:
+ - npm run coveralls
